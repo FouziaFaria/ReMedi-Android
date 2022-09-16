@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191969115152",
+    "project_id": "remedi-aeb8b",
+    "storage_bucket": "remedi-aeb8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191969115152:android:1e884822e4674466581e95",
+        "android_client_info": {
+          "package_name": "com.abdsoft.med_dose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191969115152-511t9lg36p5ok73cgnopap4rmuosac6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsTXC4LhdPmZsIafYEpRc2uBtO3MCDYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191969115152-511t9lg36p5ok73cgnopap4rmuosac6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
