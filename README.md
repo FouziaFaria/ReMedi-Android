@@ -10,25 +10,27 @@ Medicine Reminder Project in Android.
 
 ### Main Menu
 
-![Screenshot 1](screenshots/1.png "Main Menu")
 ![Screenshot 1](screenshots/2.png "Main Menu")
 
 ### Add Medicine
 
-![Screenshot 2](screenshots/3.png "Add Medicine")
 ![Screenshot 2](screenshots/4.png "Add Medicine")
 
-### Add Passengers
+### Select Schedule
 
-![Screenshot 3](screenshots/add-passenger.png "Add Passengers")
+![Screenshot 3](screenshots/6.png "Select Schedule")
 
-### Show Reservation
+### Select Time
 
-![Screenshot 4](screenshots/show-reservation.png "Show Reservation")
+![Screenshot 4](screenshots/8.png "Select Time")
 
-### Show Available Buses
+### Dashboard
 
-![Screenshot 5](screenshots/show-available-buses.png "Show Available Buses")
+![Screenshot 5](screenshots/10.png "Dashboard")
+
+### Medicine Reminder!!!
+
+![Screenshot 5](screenshots/12.png "Medicine Reminder")
 
 ## Connect With Me
 
